@@ -1,0 +1,9 @@
+{
+  "name": "alpha",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "1.1.10",
+    "typescript": "4.5.2"
+  }
+}
